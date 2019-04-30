@@ -1,0 +1,10 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Alterar o endereço de uma conta
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do Office 365
+Informe o nome atual, sem colocar o @sinqia.com.br, no campo 'Antigo'
+Informe o novo nome, sem colocar o @sinqia.com.br, no campo 'Novo'
+Utilize o botao Modificar

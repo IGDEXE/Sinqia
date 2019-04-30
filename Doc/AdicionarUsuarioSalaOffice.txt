@@ -1,0 +1,10 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Adicionar um usuario em uma sala do Office
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do Office 365
+Informe o usuario, sem o @sinqia.com.br, no campo 'Usuario'
+Escolha a sala na lista
+Utilize o botao 'Adicionar'

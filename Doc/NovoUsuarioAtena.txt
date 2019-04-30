@@ -1,0 +1,12 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Criar um usuario da Atena
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do AD Local
+O AD local eh o mesmo do dominio do computador
+Informe o primeiro nome no campo "Nome"
+Informe o segundo nome no campo "Sobrenome"
+Informe um usuario de referencia no campo "Referencia"
+Clique no botao "Criar"

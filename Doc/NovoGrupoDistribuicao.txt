@@ -1,0 +1,12 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Criar um novo grupo/email de distribuicao com usuarios
+Como utilizar:
+Inicie o script pela bat
+Informe suas credenciais do AD Local
+O AD local eh o mesmo do dominio do computador
+Informe o nome do grupo no campo "Nome"
+Informe o email do grupo no campo "Email"
+Informe o login dos usuarios do dominio local(ex:ivo.dias) no campo "Usuarios"
+Clique no botao "Criar" 

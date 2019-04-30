@@ -1,0 +1,10 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Alterar o licenciamento atual de uma conta
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do Office 365
+Informe um usuario, sem colocar o @sinqia.com.br, no campo 'Usuario'
+Selecione uma licença na lista
+Utilize o botao 'Modificar'

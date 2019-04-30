@@ -1,0 +1,16 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Criar um usuario nova da Senior
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do AD Local
+O AD local eh o mesmo do dominio do computador
+Informe o primeiro nome no campo "Nome"
+Informe o segundo nome no campo "Sobrenome"
+Informe um usuario de referencia no campo "Referencia"
+Clique no botao "Verificar"
+Os grupos do usuario de referencia vao ser mostrados na Checkbox "Grupos Ref", onde deve selecionar todos os grupos em que o usuario novo tenha que estar
+Na Checkbox "Padrao", selecione os grupos padroes que o usuario tem que estar
+Caso tenha o mesmo grupo nas duas, selecione apenas em uma
+Depois de confirmar que os grupos estao certos, utilize o botao "Criar"

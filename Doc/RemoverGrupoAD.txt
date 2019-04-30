@@ -1,0 +1,11 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Remover um usuario de um grupo
+Como utilizar: 
+Inicie o script pela bat
+Informe suas credenciais do AD Local
+O AD local eh o mesmo do dominio do computador
+Informe o usuario no campo "Usuario"
+Informe o grupo no campo "Grupo"
+Clique no botao "Remover"

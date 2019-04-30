@@ -1,0 +1,10 @@
+Autor: Ivo Dias
+Versão: 20190430T1226205271
+
+Objetivo: Fazer o checklist de desligamento de um usuario
+Como utilizar:
+Inicie o script pela bat
+Informe suas credenciais do AD Local
+O AD local eh o mesmo do dominio do computador
+Informe o usuario no campo "Usuario"
+Clique no botao "Desligar"
